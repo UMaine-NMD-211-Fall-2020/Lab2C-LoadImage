@@ -1,6 +1,6 @@
 # Lab2C-LoadImage
 **(Optional)** Learn how to load an image file. 
-
+Update your `README.md` file for Lab 2 with what you are going to do in Lab 2C. 
 1. Open a new Processing file. Inside of your lab 2 folder, save your file within the lab 2 folder as as `Lab2C-*YOUR FIRST NAME*-*YOUR LAST NAME*`.
 2. Add your opening comments.
 ```processing
